@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "browser-sync start --server --files **/* --no-open"
+  },
+  "devDependencies": {
+    "browser-sync": "^3.0.3",
+    "prettier": "^3.4.2",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@siteimprove/alfa-css": "^0.97.0"
+  }
+}
